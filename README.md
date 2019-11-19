@@ -1,5 +1,8 @@
 # Android device list
 
+[![npm](https://img.shields.io/npm/v/android-device-list.svg)](https://www.npmjs.com/package/android-device-list)
+
+
 A JSON list created from Google Play Supported devices CVS.
 
 Source: https://support.google.com/googleplay/android-developer/answer/6154891?hl=en
