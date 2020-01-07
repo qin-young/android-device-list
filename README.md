@@ -10,7 +10,7 @@ Source: https://support.google.com/googleplay/android-developer/answer/6154891?h
 ## Install
 
 ```
-$ npm install android-device-list
+$ npm install hy-android-device-list
 ```
 
 ## Usage
@@ -47,7 +47,7 @@ Returns a device list with matching [build.os.MODEL](http://developer.android.co
 ## Example
 
 ```js
-var androidDevices = require('android-device-list');
+var androidDevices = require('hy-android-device-list');
 
 var devices = androidDevices.deviceList();
 var brands = androidDevices.brandList();
@@ -92,4 +92,4 @@ console.log(LGDevices[403]);
 
 ## License
 
-**android-device-list** is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
+**hy-android-device-list** is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.

@@ -90325,6 +90325,12 @@
   },
   {
     "brand": "Oppo",
+    "name": "Reno 2",
+    "device": "OP4A57",
+    "model": "OP4A57"
+  },
+  {
+    "brand": "Oppo",
     "name": "1105",
     "device": "1105",
     "model": "1105"
@@ -140819,6 +140825,18 @@
     "device": "PD1709",
     "model": "vivo PD1709"
   },
+  {
+    "brand": "Vivo",
+    "name": "vivo x27",
+    "device": "V1838A",
+    "model": "vivo V1838A"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y7s",
+    "device": "PD1913",
+    "model": "vivo PD1913"
+  },  
   {
     "brand": "Vivo",
     "name": "vivo Z5",
