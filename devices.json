@@ -140821,6 +140821,42 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo Z5",
+    "device": "PD1921",
+    "model": "vivo PD1921"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo IQOO Neo",
+    "device": "PD1914",
+    "model": "vivo PD1914"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Z5X",
+    "device": "V1911A",
+    "model": "vivo V1911A"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X27 Pro",
+    "device": "V1836A",
+    "model": "vivo V1836A"
+  },  
+  {
+    "brand": "Vivo",
+    "name": "vivo Y3",
+    "device": "V1901A",
+    "model": "vivo V1901A"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X23 幻彩版",
+    "device": "V1816A",
+    "model": "vivo V1816A"
+  },  
+  {
+    "brand": "Vivo",
     "name": "vivo X20",
     "device": "PD1709",
     "model": "vivo X20A"
