@@ -139939,15 +139939,45 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo x23",
+    "device": "V1816A",
+    "model": "vivo V1816A"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo S1 pro",
+    "device": "vivo 1818",
+    "model": "vivo 1818"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y3",
+    "device": "V1901A",
+    "model": "vivo V1901A"
+  },
+  {
+    "brand": "Vivo",
     "name": "PD1304DL",
     "device": "PD1304DL",
     "model": "vivo Y13iL"
   },
   {
     "brand": "Vivo",
-    "name": "PD1419V",
+    "name": "IQOO pro 5G",
+    "device": "V1916A",
+    "model": "vivo 1916A"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y923",
     "device": "PD1419V",
     "model": "vivo Y923"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y67A",
+    "device": "PD1612",
+    "model": "vivo Y67A"
   },
   {
     "brand": "Vivo",
@@ -140071,8 +140101,8 @@
   },
   {
     "brand": "Vivo",
-    "name": "V1838A",
-    "device": "PD1838",
+    "name": "vivo X27",
+    "device": "V1838A",
     "model": "V1838A"
   },
   {
@@ -140083,8 +140113,8 @@
   },
   {
     "brand": "Vivo",
-    "name": "V1911A",
-    "device": "PD1911",
+    "name": "vivo Z5x",
+    "device": "V1911A",
     "model": "V1911A"
   },
   {
