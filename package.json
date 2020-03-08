@@ -1,6 +1,6 @@
 {
   "name": "hy-android-device-list",
-  "version": "3.0",
+  "version": "2.4.4",
   "description": "List of Android Supported Devices",
   "main": "index.js",
   "engines": {
