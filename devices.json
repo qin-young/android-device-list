@@ -139921,12 +139921,6 @@
   },
   {
     "brand": "Vivo",
-    "name": "1818",
-    "device": "1818",
-    "model": "vivo 1818"
-  },
-  {
-    "brand": "Vivo",
     "name": "1818N",
     "device": "1818N",
     "model": "vivo 1818"
@@ -139936,12 +139930,6 @@
     "name": "NEX A",
     "device": "PD1806B",
     "model": "vivo NEX A"
-  },
-  {
-    "brand": "Vivo",
-    "name": "vivo x23",
-    "device": "V1816A",
-    "model": "vivo V1816A"
   },
   {
     "brand": "Vivo",
@@ -139965,8 +139953,12 @@
     "brand": "Vivo",
     "name": "IQOO pro 5G",
     "device": "V1916A",
-    "model": "vivo 1916A"
+    "model": "V1916A"
   },
+  {
+    "brand": "Vivo",
+    "name": "vivo X23 幻彩版"
+  }
   {
     "brand": "Vivo",
     "name": "Y923",
@@ -140053,12 +140045,6 @@
   },
   {
     "brand": "Vivo",
-    "name": "V1816A",
-    "device": "PD1816",
-    "model": "V1816A"
-  },
-  {
-    "brand": "Vivo",
     "name": "V1818A",
     "device": "PD1818",
     "model": "V1818A"
@@ -140095,16 +140081,11 @@
   },
   {
     "brand": "Vivo",
-    "name": "V1836A",
-    "device": "PD1836",
-    "model": "V1836A"
-  },
-  {
-    "brand": "Vivo",
     "name": "vivo X27",
-    "device": "V1838A",
+    "device": "PD1838",
     "model": "V1838A"
   },
+  
   {
     "brand": "Vivo",
     "name": "V1901A",
@@ -140112,21 +140093,15 @@
     "model": "V1901A"
   },
   {
-    "brand": "Vivo",
+    "brand": "vivo",
     "name": "vivo Z5x",
-    "device": "V1911A",
+    "device": "PD1911",
     "model": "V1911A"
   },
   {
     "brand": "Vivo",
-    "name": "V1916A",
-    "device": "PD1916",
-    "model": "V1916A"
-  },
-  {
-    "brand": "Vivo",
-    "name": "V1922A",
-    "device": "PD1922",
+    "name": "Vivo IQOO Pro",
+    "device": "V1922A",
     "model": "V1922A"
   },
   {
@@ -140761,8 +140736,14 @@
   },
   {
     "brand": "Vivo",
-    "name": "vivo 1818",
+    "name": "vivo S1 pro",
     "device": "PD1832",
+    "model": "V1832A"
+  },
+  {
+    "brand": "vivo",
+    "name": "vivo S1 pro",
+    "device": "vivo 1818",
     "model": "V1832A"
   },
   {
@@ -140889,13 +140870,13 @@
     "brand": "Vivo",
     "name": "vivo X27 Pro",
     "device": "V1836A",
-    "model": "vivo V1836A"
+    "model": "V1836A"
   },  
   {
     "brand": "Vivo",
     "name": "vivo Y3",
     "device": "V1901A",
-    "model": "vivo V1901A"
+    "model": "V1901A"
   },
   {
     "brand": "Vivo",
