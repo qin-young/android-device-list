@@ -1,4 +1,5 @@
-{
+[
+  {
   "brand": "",
   "name": "",
   "device": "AD681H",
@@ -157369,4 +157370,5 @@
   "name": "Zyrex  ZA833",
   "device": "ZA833",
   "model": "ZA833"
-},
+}
+]
