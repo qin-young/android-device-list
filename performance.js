@@ -2,10 +2,10 @@ const fs = require('fs')
 const devices = require( './devices.json' );
 var performance = {}
 const LEVELMAP = {
-  "中": "M",
-  "低": "L",
-  "极低": "XL",
-  "高": "H"
+  "极低": 1,
+  "低": 2,
+  "中": 3,
+  "高": 4
 }
 try{
 
@@ -31,7 +31,7 @@ console.log(performance['PADT00'])
 
 
 devices.forEach(device => {
-  device.level = performance[device.model] ? performance[device.model] : "UNKnown"
+  device.level = performance[device.model] ? performance[device.model] : 0
   let data = JSON.stringify(device, null , 2)
   fs.appendFileSync('./devices_bak.json', data)
   fs.appendFileSync('./devices_bak.json', ",\n")
