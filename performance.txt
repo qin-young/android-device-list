@@ -1,0 +1,1074 @@
+PADT00	|	中	&
+PACT00	|	中	&
+OPPO R11	|	中	&
+BLN-TL10	|	低	&
+PBAT00	|	低	&
+PBBT00	|	中	&
+OPPO A83	|	低	&
+OPPO R9s	|	低	&
+OPPO R9s Plus	|	中	&
+vivo X7	|	中	&
+vivo Y66	|	低	&
+V1818T	|	低	&
+V1813A	|	中	&
+Redmi Note 4	|	中	&
+MHA-AL00	|	高	&
+PAR-AL00	|	高	&
+VTR-AL00	|	高	&
+VKY-TL00	|	高	&
+CAM-TL00	|	极低	&
+MI 5X	|	低	&
+MI MAX 2	|	低	&
+Mi Note 3	|	中	&
+MI 5X	|	低	&
+OPPO A33	|	极低	&
+OPPO A77	|	低	&
+OPPO A83t	|	低	&
+PBCM10	|	中	&
+vivo X9Plus	|	中	&
+DUK-AL20	|	高	&
+OPPO R9m	|	低	&
+vivo X7Plus	|	中	&
+Redmi 4A	|	极低	&
+Redmi Note 5A	|	极低	&
+HUAWEI MLA-AL10	|	低	&
+RNE-AL00	|	低	&
+WAS-AL00	|	低	&
+EVA-TL00	|	中	&
+FRD-AL00	|	中	&
+COR-AL00	|	高	&
+OPPO A73t	|	低	&
+OPPO R9 Plustm A	|	中	&
+vivo X9s	|	中	&
+vivo Y67A	|	低	&
+Redmi 5A	|	极低	&
+Redmi Note 3	|	中	&
+Redmi Note 4X	|	低	&
+HUAWEI NXT-AL10	|	中	&
+HUAWEI CAZ-AL10	|	低	&
+Redmi 5 Plus	|	低	&
+OPPO A57	|	低	&
+vivo Y67	|	低	&
+OPPO R9sk	|	低	&
+vivo X9	|	低	&
+INE-AL00	|	中	&
+OPPO A37t	|	低	&
+OPPO A59s	|	低	&
+vivo Y55A	|	低	&
+vivo Y66i	|	极低	&
+vivo Y71	|	极低	&
+vivo Y71A	|	极低	&
+OPPO R9m	|	低	&
+OPPO A59m	|	低	&
+OPPO R11s	|	中	&
+Redmi 4X	|	低	&
+BAC-AL00	|	低	&
+vivo Y51	|	极低	&
+vivo Y83A	|	低	&
+vivo Y85	|	低	&
+MI 8	|	高	&
+MI 6X	|	中	&
+Redmi Note 7	|	中	&
+ANE-AL00	|	低	&
+VCE-AL00	|	高	&
+PRA-AL00	|	低	&
+CLT-AL01	|	高	&
+HMA-AL00	|	高	&
+LLD-AL10	|	低	&
+MRD-AL00	|	中	&
+LDN-AL00	|	低	&
+FLA-AL10	|	低	&
+TRT-AL00	|	低	&
+LND-AL30	|	低	&
+BKL-AL00	|	高	&
+JSN-AL00	|	中	&
+HRY-TL00	|	中	&
+JKM-AL00	|	中	&
+BND-AL10	|	低	&
+PAFM00	|	高	&
+MI 8 SE	|	高	&
+ALP-TL00	|	高	&
+BND-AL10	|	低	&
+EML-AL00	|	高	&
+PBEM00	|	高	&
+HWI-AL00	|	高	&
+vivo X21	|	中	&
+vivo X21A	|	中	&
+BLA-AL00	|	高	&
+Le X621	|	中	&
+vivo V3M A 	|	低	&
+vivo Y35	|	低	&
+vivo V3	|	低	&
+SM-C7000	|	低	&
+vivo X9s Plus L	|	中	&
+NX531J	|	中	&
+C106	|	中	&
+GIONEE F6	|	低	&
+Pixel 4	|	高	&
+vivo Y37	|	低	&
+vivo Y79	|	低	&
+vivo Y35A	|	极低	&
+ONEPLUS A6003	|	高	&
+vivo Xplay5A	|	中	&
+vivo Y53L	|	极低	&
+SM-G9500	|	高	&
+vivo X6D	|	低	&
+ELE-AL00	|	高	&
+m1 note	|	低	&
+HUAWEI TAG-AL00	|	低	&
+YAL-AL00	|	高	&
+SLA-AL00	|	极低	&
+ALE-TL00	|	极低	&
+TIT-TL00	|	低	&
+H60-L01	|	极低	&
+HUAWEI GRA-UL10	|	低	&
+FIG-AL10	|	低	&
+MYA-AL10	|	低	&
+ATH-AL00	|	低	&
+MT7-TL10	|	极低	&
+NCE-AL10	|	低	&
+MIX	|	中	&
+MI 4LTE	|	低	&
+Redmi Note 7	|	中	&
+Redmi 5	|	低	&
+Mi-4c	|	低	&
+V1831A	|	中	&
+V1829A	|	高	&
+vivo Y79A	|	低	&
+vivo X5Pro D	|	低	&
+vivo Xplay6	|	中	&
+vivo V3Max A	|	低	&
+OPPO A79	|	低	&
+OPPO A79t	|	低	&
+HM 2A	|	极低	&
+Redmi 4	|	低	&
+ R7c	|	低	&
+R8107	|	低	&
+OPPO A79kt	|	低	&
+Lenovo L78011	|	中	&
+G3221	|	低	&
+moto e6	|	低	&
+ONEPLUS A6000	|	高	&
+PRO 6 Plus	|	中	&
+F100	|	低	&
+Pixel 2	|	高	&
+H3113	|	中	&
+m2	|	低	&
+MX6	|	中	&
+LEX626	|	中	&
+S3	|	低	&
+S9	|	低	&
+ONEPLUS A3000	|	中	&
+LGL722DL	|	低	&
+GIONEE S10CL	|	低	&
+C106-9	|	中	&
+Le X528	|	中	&
+GIONEE M7	|	中	&
+m2 note	|	低	&
+GIONEE S10C	|	低	&
+K350t	|	低	&
+m3	|	低	&
+GIONEE S10	|	低	&
+RMX1822	|	中	&
+SM-G9350	|	中	&
+vivo X6Plus A	|	低	&
+SM-J400M	|	低	&
+vivo Y53	|	极低	&
+Hisense F22M	|	极低	&
+GIONEE M7L	|	中	&
+Le X620	|	中	&
+MI 5s	|	中	&
+NX563J	|	高	&
+CPH1905	|	低	&
+OPPO F1s	|	低	&
+CPH1987	|	中	&
+vivo X20Plus A	|	中	&
+SM-G9650	|	高	&
+SM-G9500	|	高	&
+SM-N9500	|	高	&
+SM-G9550	|	高	&
+MIX 2S	|	高	&
+MI 6	|	高	&
+OPPO R7s	|	低	&
+DIG-AL00	|	低	&
+DLI-AL10	|	低	&
+JMM-AL00	|	低	&
+NCE-AL00	|	低	&
+EDI-AL10	|	中	&
+KNT-AL20	|	中	&
+DIG-AL00	|	低	&
+DLI-TL20	|	低	&
+CHM-CL00	|	低	&
+PLK-AL10	|	低	&
+MI 9 SE	|	高	&
+MI 5s Plus	|	中	&
+MI 9	|	高	&
+MIX 2	|	高	&
+HM NOTE 1S	|	极低	&
+Redmi 7	|	中	&
+MI NOTE LTE	|	低	&
+Redmi 5 Plus	|	低	&
+Redmi Pro	|	中	&
+vivo X5S L	|	低	&
+vivo Y75	|	低	&
+vivo X20Plus A	|	中	&
+vivo Y75A	|	低	&
+vivo X9i	|	低	&
+vivo X6S A	|	中	&
+CPH1909	|	中	&
+CPH1825	|	中	&
+OPPO A83	|	低	&
+CPH1819	|	中	&
+A37f	|	极低	&
+R8207	|	低	&
+A31	|	极低	&
+A37f	|	极低	&
+A31c	|	极低	&
+OPPO A33t	|	极低	&
+Meizu S6	|	低	&
+MEIZU M6	|	低	&
+M2 E	|	低	&
+PRO 7 Plus	|	高	&
+ONEPLUS A5000	|	高	&
+LG-H872	|	中	&
+Letv X501	|	低	&
+M621C	|	低	&
+Hisense F23	|	极低	&
+M3s	|	低	&
+MP1503	|	低	&
+XT1799-2	|	低	&
+1707-A01	|	中	&
+m3 note	|	低	&
+PRO 7-S	|	低	&
+XT1650-05	|	中	&
+1801-A01	|	中	&
+GN8002S	|	低	&
+F103	|	低	&
+GN5001S	|	低	&
+MEIZU E3	|	中	&
+moto x4	|	中	&
+moto z3	|	高	&
+G8342	|	高	&
+MX5	|	低	&
+HTC U-3w	|	高	&
+GIONEE S10L	|	低	&
+MI 5	|	中	&
+MI MAX 2	|	低	&
+x600	|	低	&
+SM-C9000	|	中	&
+vivo X5M	|	低	&
+Letv X500	|	低	&
+M5 Note	|	低	&
+SM-G9280	|	中	&
+SM-G9600	|	高	&
+vivo Y31	|	极低	&
+vivo X6SPlus D	|	中	&
+SM-G9250	|	中	&
+NX549J	|	低	&
+vivo X6Plus D	|	低	&
+M6 Note	|	低	&
+F100S	|	低	&
+Redmi Note 5	|	中	&
+KIW-AL10	|	低	&
+STF-L09	|	高	&
+HM NOTE 1LTE	|	极低	&
+Redmi 6A	|	低	&
+HUAWEI VNS-AL00	|	低	&
+NEM-AL10	|	低	&
+HUAWEI VNS-TL00	|	低	&
+CUN-TL00	|	低	&
+LON-AL00	|	高	&
+LDN-TL10	|	低	&
+JKM-LX2	|	中	&
+VIE-AL10	|	中	&
+HUAWEI RIO-AL00	|	低	&
+BTV-W09	|	中	&
+INE-TL00	|	中	&
+SM-G975U	|	高	&
+SM-G9308	|	中	&
+Redmi 3S	|	低	&
+MI 5C	|	低	&
+Redmi 3	|	低	&
+Redmi 4A	|	极低	&
+MI MAX	|	中	&
+Mi Note 2	|	中	&
+Redmi 3X	|	低	&
+MI Pad	|	低	&
+MI 6	|	高	&
+vivo Y23L	|	极低	&
+vivo 1816	|	低	&
+CPH1723	|	低	&
+CPH1803	|	低	&
+CPH1923	|	低	&
+OPPO R7	|	低	&
+CPH1717	|	低	&
+OPPO R7sPlus	|	低	&
+A51	|	极低	&
+CPH1877	|	高	&
+OPPO A59st	|	低	&
+OPPO A53	|	低	&
+BV9100	|	中	&
+MP1603	|	中	&
+MP1709	|	中	&
+RMX1911	|	中	&
+SKR-A0	|	高	&
+A3010	|	中	&
+A5010	|	高	&
+Le X520	|	中	&
+GN5005	|	低	&
+HTC 2Q4D200	|	高	&
+GIONEE GN8003	|	低	&
+MP1602	|	中	&
+GIONEE GN5007	|	低	&
+GM1913	|	高	&
+HLTE200T	|	极低	&
+C106-8	|	中	&
+NX569H	|	中	&
+Le X820	|	中	&
+G8142	|	高	&
+HLTE300T	|	低	&
+koobee M9	|	低	&
+Nokia 7.2	|	中	&
+M5	|	低	&
+MP1701	|	中	&
+m1 metal	|	低	&
+TAS-AN00	|	高	&
+SM-A105M	|	中	&
+SM-J610F	|	极低	&
+SM-G965U	|	高	&
+SM-N960U	|	高	&
+SM-J730GM	|	低	&
+SM-J500FN	|	极低	&
+SM-J250F	|	极低	&
+vivo 1812	|	低	&
+vivo 1801	|	极低	&
+V1818CT	|	低	&
+PCAM00	|	高	&
+V1838A	|	高	&
+PCAM10	|	中	&
+V1809A	|	高	&
+vivo X20	|	中	&
+BKK-AL10	|	中	&
+COL-AL10	|	高	&
+SM-G965F	|	高	&
+SM-G955F	|	高	&
+SM-G960F	|	高	&
+ALP-L29	|	高	&
+Redmi S2	|	低	&
+Redmi Note 5A	|	低	&
+Redmi Note 5	|	中	&
+Redmi 6 Pro	|	低	&
+Redmi 6	|	低	&
+Redmi 5A	|	极低	&
+RNE-L21	|	低	&
+DUA-L22	|	低	&
+COL-L29	|	高	&
+JNY-AL10	|	高	&
+MI CC9 Pro	|	高	&
+WLZ-AL10	|	高	&
+SEA-AL10	|	高	&
+VOG-AL00	|	高	&
+HLK-AL00	|	高	&
+Redmi K30 5G	|	高	&
+Redmi K30 5G	|	高	&
+PCNM00	|	高	&
+PCRM00	|	高	&
+PDCM00	|	高	&
+SM-G950F	|	高	&
+SM-G935F	|	中	&
+SM-G930F	|	中	&
+SM-N960F	|	高	&
+SM-N9005	|	低	&
+SM-G920F	|	中	&
+SM-G900F	|	低	&
+SM-N950F	|	高	&
+SM-J700F	|	低	&
+ELE-L29	|	高	&
+VOG-L29	|	高	&
+WLZ-AN00	|	高	&
+RMX2051	|	高	&
+LYA-AL10	|	高	&
+DUB-AL00	|	低	&
+ELE-AL00	|	高	&
+V1938CT	|	高	&
+LIO-AN00	|	高	&
+V1938T	|	高	&
+PCPM00	|	中	&
+PDBM00	|	中	&
+SM-A720F	|	低	&
+SM-J320FN	|	极低	&
+SM-A510F	|	低	&
+SM-A405FN	|	中	&
+SM-J600G	|	低	&
+SM-J510FN	|	极低	&
+SM-J701F	|	低	&
+SM-J530F	|	低	&
+SM-G570M	|	低	&
+SM-A710F	|	低	&
+VTR-L09	|	高	&
+ANE-LX1	|	低	&
+PRA-LX1	|	低	&
+HUAWEI VNS-L31	|	低	&
+LLD-L31	|	低	&
+BND-L21	|	低	&
+MHA-L29	|	高	&
+LYA-L29	|	高	&
+JSN-L21	|	中	&
+BLA-L29	|	高	&
+CLT-L29	|	高	&
+WAS-LX1A	|	低	&
+FIG-LX1	|	低	&
+SNE-LX1	|	中	&
+POT-LX1	|	中	&
+HMA-L29	|	高	&
+HRY-LX1	|	中	&
+CAM-L21	|	极低	&
+OPPO R9s	|	低	&
+MI 8	|	高	&
+vivo X21A	|	中	&
+HUAWEI G730-T00	|	极低	&
+MI NOTE LTE	|	低	&
+SC-02L	|	中	&
+SM-J260F	|	低	&
+HUAWEI RIO-L01	|	低	&
+SM-J320F	|	极低	&
+SM-J250F	|	极低	&
+SM-J730F	|	低	&
+SM-J600G	|	低	&
+DUB-LX1	|	低	&
+SM-A105F	|	中	&
+GT-I9060	|	极低	&
+SM-J810G	|	低	&
+FRD-L09	|	中	&
+PRA-LX1	|	低	&
+SM-J320H	|	极低	&
+SM-J510FN	|	极低	&
+Redmi 8	|	低	&
+JAT-L29	|	中	&
+CPH1923	|	低	&
+HUAWEI NXT-L29	|	中	&
+SM-J530F	|	低	&
+OPPO A37f	|	极低	&
+SM-A305F	|	中	&
+MRD-LX1	|	低	&
+MI PLAY	|	中	&
+Redmi Note 7	|	中	&
+SM-N975F	|	高	&
+SOV32	|	低	&
+SO-02J	|	中	&
+GT-I9060I	|	极低	&
+SM-T561	|	极低	&
+Pixel 4 XL	|	高	&
+Pixel 3a XL	|	高	&
+Pixel 3a	|	高	&
+DUB-LX2	|	低	&
+moto g(6) plus	|	中	&
+moto g(6) play	|	低	&
+Pixel 2 XL	|	高	&
+RMX1919	|	中	&
+RMX1851	|	高	&
+CPH1989	|	中	&
+Redmi Note 8 Pro	|	高	&
+Redmi Note 8	|	中	&
+CPH1917	|	高	&
+CPH1803	|	低	&
+SOV39	|	高	&
+TRT-L21A	|	低	&
+Moto E (4) Plus	|	低	&
+Moto E (4)	|	低	&
+LG-M700	|	低	&
+LG-K430	|	低	&
+SM-J810Y	|	低	&
+SM-G530H	|	极低	&
+SM-A530F	|	中	&
+SM-G610F	|	低	&
+SM-G531H	|	极低	&
+SM-A730F	|	中	&
+SM-A705FN	|	高	&
+SM-A505F	|	中	&
+SM-A305F	|	中	&
+SM-A202F	|	中	&
+SM-N935F	|	中	&
+SC-04J	|	低	&
+SM-G532F	|	低	&
+SM-A600FN	|	低	&
+JKM-LX1	|	中	&
+POT-LX1	|	中	&
+SM-J415FN	|	极低	&
+SM-J500FN	|	极低	&
+SM-A520F	|	低	&
+SM-J330FN	|	低	&
+601SO	|	中	&
+SM-G615F	|	低	&
+BLN-L21	|	低	&
+HRY-LX1	|	中	&
+SM-G925I	|	中	&
+SM-A105G	|	中	&
+SO-01L	|	高	&
+GT-I9301I	|	极低	&
+SM-G955U	|	高	&
+SM-J111F	|	极低	&
+Redmi 6A	|	低	&
+Redmi 7	|	中	&
+moto e5 play	|	低	&
+ASUS_X01BDA	|	中	&
+Moto G (5S)	|	低	&
+Moto G (4)	|	低	&
+Pixel 3 XL	|	高	&
+EML-L29	|	高	&
+Moto G (5)	|	低	&
+TA-1032	|	低	&
+ALE-L21	|	极低	&
+Moto G (5) Plus	|	低	&
+SM-G532G	|	低	&
+moto e5	|	极低	&
+ASUS_X00ID	|	低	&
+CPH1717	|	低	&
+LM-G710	|	高	&
+moto g(7) play	|	中	&
+LG-H815	|	低	&
+Moto G (5S) Plus	|	低	&
+moto g(7) power	|	中	&
+TA-1021	|	低	&
+ASUS_X018D	|	低	&
+moto g(6)	|	低	&
+ASUS_X00QD	|	中	&
+SM-A320FL	|	低	&
+SM-A310F	|	低	&
+Nokia 6.1	|	中	&
+SM-G570F	|	低	&
+SM-A750FN	|	中	&
+SM-A260G	|	低	&
+STK-L22	|	中	&
+SOV36	|	高	&
+SM-M205F	|	中	&
+SM-J701F	|	低	&
+SO-02H	|	低	&
+SM-G920I	|	中	&
+SM-G920F	|	中	&
+EVA-L19	|	中	&
+SM-M105G	|	低	&
+X9009	|	低	&
+CPH1607	|	低	&
+Nokia 7 plus	|	中	&
+Nokia 6.1 Plus	|	中	&
+Nokia 3.1 Plus	|	低	&
+SM-J700H	|	低	&
+SM-G7102	|	极低	&
+SM-G925F	|	中	&
+CPH1723	|	低	&
+HUAWEI VNS-L21	|	低	&
+GT-I9300	|	极低	&
+HUAWEI G750-T01	|	极低	&
+MAR-LX1A	|	中	&
+MAR-LX1A	|	中	&
+SM-J810F	|	低	&
+INE-LX1	|	中	&
+INE-LX1	|	中	&
+JSN-L22	|	中	&
+Redmi 7A	|	低	&
+NX659J	|	高	&
+Mi 10	|	高	&
+PDEM30	|	高	&
+V1950A	|	高	&
+IN2020	|	高	&
+ELS-AN00	|	高	&
+IN2010	|	高	&
+ANA-AN00	|	高	&
+V1836A	|	高	&
+TAS-AL00	|	高	&
+STK-AL00	|	中	&
+OXF-AN10	|	高	&
+LIO-AN00	|	高	&
+Redmi 8A	|	低	&
+HRY-LX1T	|	中	&
+701SH	|	中	&
+SO-03H	|	低	&
+SM-M307FN	|	中	&
+SOV38	|	高	&
+SM-J200H	|	极低	&
+GT-S7580	|	极低	&
+GT-S7582	|	极低	&
+SM-J100H	|	极低	&
+ASUS_Z017D	|	低	&
+SM-J200GU	|	极低	&
+SH-04H	|	中	&
+SH-04G	|	极低	&
+SH-01K	|	低	&
+SHV39	|	高	&
+706SH	|	高	&
+605SH	|	高	&
+SH-03J	|	高	&
+SH-02J	|	低	&
+S3-SH	|	低	&
+SHV40	|	低	&
+SHV41	|	中	&
+SO-03K	|	高	&
+SOV35	|	中	&
+Pixel 3	|	高	&
+SO-02K	|	高	&
+SO-05K	|	高	&
+SO-01G	|	低	&
+SO-04H	|	中	&
+SOV40	|	高	&
+KYV43	|	低	&
+F-02H	|	低	&
+F-01J	|	低	&
+L-03K	|	低	&
+Redmi Note 8T	|	中	&
+F-02L	|	低	&
+Lenovo A1000	|	极低	&
+SM-A107F	|	低	&
+F-04H	|	低	&
+AMN-LX3	|	低	&
+CPH1851	|	低	&
+Redmi Note 4	|	中	&
+SM-J120H	|	极低	&
+SM-A205F	|	中	&
+INE-LX2	|	中	&
+Redmi 5 Plus	|	低	&
+MAR-LX2	|	中	&
+Redmi 5	|	低	&
+CPH1825	|	中	&
+vivo 1907	|	中	&
+LG-X210	|	极低	&
+CPH1879	|	高	&
+MotoG3	|	极低	&
+CPH1701	|	低	&
+Redmi Note 3	|	低	&
+CPH1725	|	低	&
+CPH1719	|	中	&
+Redmi Note 7 Pro	|	高	&
+JKM-LX2	|	中	&
+ASUS_X00TDB	|	中	&
+SM-G531F	|	极低	&
+Redmi Note 6 Pro	|	中	&
+Pixel XL	|	中	&
+HTC One_M8	|	低	&
+EVR-L29	|	高	&
+RMX1821	|	中	&
+SM-G611F	|	低	&
+LDN-LX2	|	低	&
+vivo 1808	|	低	&
+CPH1937	|	中	&
+CPH1819	|	中	&
+SM-A207F	|	低	&
+HUAWEI TIT-U02	|	极低	&
+HUAWEI KII-L21	|	低	&
+HUAWEI P7-L10	|	极低	&
+Lenovo K8 Note	|	中	&
+SM-J600FN	|	低	&
+FIG-LA1	|	低	&
+PAR-LX1	|	高	&
+SM-A605FN	|	低	&
+SM-M305F	|	中	&
+VKY-L29	|	高	&
+KYV41	|	低	&
+SM-J500H	|	极低	&
+SM-J106H	|	极低	&
+SM-T116NU	|	极低	&
+V1930A	|	低	&
+Redmi K30 Pro	|	高	&
+BMH-AN10	|	高	&
+EBG-AN00	|	高	&
+AKA-AL10	|	中	&
+AQM-AL10	|	高	&
+AQM-AL00	|	中	&
+Redmi 8	|	低	&
+HLK-AL10	|	高	&
+SPN-AL00	|	高	&
+Redmi Note 8 Pro	|	高	&
+PCHM10	|	中	&
+PDEM10	|	高	&
+V1963A	|	高	&
+MED-AL00	|	中	&
+MOA-AL00	|	中	&
+PCLM50	|	高	&
+V1962A	|	高	&
+PCHM30	|	中	&
+KSA-AL10	|	低	&
+RMX1931	|	高	&
+DUA-AL00	|	低	&
+RMX1991	|	高	&
+V1924A	|	高	&
+RMX1971	|	高	&
+V1945A	|	中	&
+YAL-AL10	|	高	&
+V1928A	|	中	&
+GLK-AL00	|	中	&
+SPN-AL00	|	高	&
+YAL-AL50	|	高	&
+ART-AL00x	|	中	&
+Redmi 8A	|	低	&
+PCKM80	|	中	&
+V1916A	|	高	&
+RMX2071	|	高	&
+PCLM10	|	高	&
+V1911A	|	高	&
+V1932A	|	高	&
+SHARK KLE-A0	|	高	&
+SM-G903W	|	低	&
+SM-J320W8	|	极低	&
+LG-M320G	|	极低	&
+LG-M470	|	低	&
+LG-K210	|	低	&
+XT1565	|	低	&
+Nexus 5	|	低	&
+SM-C7010	|	低	&
+SM-A6060	|	高	&
+H4493	|	中	&
+Lenovo L38011	|	低	&
+SM-J210F	|	极低	&
+TA-1053	|	低	&
+LG-F240S	|	极低	&
+LG-F650K	|	极低	&
+LM-V500N	|	高	&
+LGM-V300S	|	高	&
+LM-X415K	|	极低	&
+LM-X625N	|	低	&
+LM-X510S	|	低	&
+HTC U12 life	|	中	&
+HTC 10	|	中	&
+GT-I8190	|	极低	&
+GT-I9500	|	极低	&
+Nokia 5.1 Plus	|	中	&
+SM-G973U	|	高	&
+LG-Q710AL	|	低	&
+LM-V405	|	高	&
+LGLS676	|	低	&
+V1955A	|	高	&
+CDY-AN90	|	高	&
+Redmi Note 8	|	中	&
+OPPO A83	|	低	&
+SM-A307FN	|	中	&
+DRA-LX2	|	低	&
+LG-M320G	|	极低	&
+LM-X510WM	|	极低	&
+LG-M151	|	极低	&
+XT1710-02	|	低	&
+XT1032	|	极低	&
+SM-C9000	|	中	&
+SM-G6100	|	低	&
+SM-A9000	|	中	&
+SM-G5700	|	低	&
+SM-G8850	|	中	&
+SM-C5010	|	低	&
+H4233	|	中	&
+G3426	|	低	&
+HTC U11	|	高	&
+SM-C5000	|	低	&
+HTC_U-1u	|	中	&
+Moto C	|	低	&
+LG-K410	|	极低	&
+LG-X180g	|	极低	&
+ASUS_X00DDA	|	低	&
+ASUS_X00TDB	|	中	&
+JMM-L22	|	低	&
+ASUS_Z012DA	|	低	&
+ASUS_Z01KDA	|	中	&
+HTC_D728x	|	低	&
+ASUS_Z01MD	|	低	&
+HTC_X10u	|	低	&
+HTC 2Q4R100	|	中	&
+SM-G360H	|	极低	&
+Nokia 3.1	|	低	&
+HTC Desire 820G PLUS dual sim	|	极低	&
+LML212VL	|	极低	&
+LGL158VL	|	极低	&
+moto z4	|	高	&
+moto e5 cruise	|	低	&
+LGMP260	|	极低	&
+LM-X220QMA	|	低	&
+Mi 10 Pro	|	高	&
+PCGM00	|	高	&
+JAT-AL00	|	中	&
+V1824BA	|	高	&
+POT-AL00a	|	中	&
+LLD-AL30	|	低	&
+vivo X21i A	|	中	&
+ATU-AL10	|	低	&
+SM-N910W8	|	中	&
+Nokia 8.1	|	高	&
+LM-X420	|	低	&
+PBCM30	|	中	&
+V1913A	|	中	&
+Redmi Note 7 Pro	|	高	&
+ARE-AL00	|	中	&
+PCT-AL10	|	高	&
+HRY-AL00Ta	|	中	&
+V1838A	|	高	&
+MAR-AL00	|	高	&
+V1732A	|	低	&
+PAAM00	|	中	&
+STF-AL10	|	高	&
+SM-G386W	|	极低	&
+PH-1	|	高	&
+BBB100-1	|	低	&
+SM-G390W	|	低	&
+LG-H990	|	中	&
+SM-C7100	|	低	&
+SM-G8870	|	高	&
+vivo 1904	|	低	&
+Redmi Go	|	极低	&
+SM-N971N	|	高	&
+HTC Desire 12+	|	低	&
+SM-T3777	|	极低	&
+Lenovo K53a48	|	低	&
+SM-T111	|	极低	&
+SM-A102U	|	中	&
+SM-G970U	|	高	&
+SM-G930V	|	中	&
+SM-J737T1	|	低	&
+SM-N970U	|	高	&
+SM-J727T1	|	低	&
+Moto Z (2)	|	高	&
+SM-J327T1	|	极低	&
+LM-G820	|	高	&
+SM-N975U1	|	高	&
+SAMSUNG-SM-G891A	|	中	&
+LM-X210APM	|	极低	&
+Nexus 6P	|	低	&
+VCE-L22	|	高	&
+LG-H961N	|	低	&
+MI MAX 3	|	中	&
+MI 9	|	高	&
+Redmi 4	|	低	&
+FLA-LX3	|	低	&
+SM-N976N	|	高	&
+BLL-L22	|	低	&
+LGLS992	|	中	&
+SM-S767VL	|	中	&
+SM-G988U	|	高	&
+SM-S727VL	|	极低	&
+SM-G892A	|	高	&
+LM-X410(FG)	|	极低	&
+SM-G986U	|	高	&
+SM-J737P	|	中	&
+SM-G981U	|	高	&
+SM-T387V	|	低	&
+moto g(7)	|	中	&
+SM-J337P	|	中	&
+GT-N7100	|	极低	&
+SHV43	|	低	&
+SM-T377W	|	极低	&
+BKK-L21	|	中	&
+V1936AL	|	高	&
+V1936A	|	高	&
+V1916A	|	高	&
+V1941A	|	高	&
+PCEM00	|	中	&
+ONEPLUS A5000	|	高	&
+ONEPLUS A3010	|	中	&
+MI 8 Lite	|	中	&
+Mi 9T Pro	|	高	&
+ONEPLUS A6013	|	高	&
+MI MAX 2	|	低	&
+MI 8	|	高	&
+Mi A2 Lite	|	低	&
+SM-G9550	|	高	&
+SM-A920F	|	中	&
+GT-I9300	|	极低	&
+SM-N920C	|	中	&
+SM-C710F	|	低	&
+LG-D852	|	低	&
+vivo 1807	|	低	&
+RMX1941	|	低	&
+vivo 1727	|	低	&
+LG-D693N	|	极低	&
+LM-Q710.FG	|	低	&
+SM-G935V	|	中	&
+LM-X320	|	低	&
+LM-Q710.FG	|	低	&
+SM-J330FN	|	低	&
+SM-A605G	|	低	&
+Mi A3	|	中	&
+Mi A1	|	低	&
+MI 9 SE	|	高	&
+SM-T285	|	极低	&
+SM-T585	|	低	&
+GT-I9505	|	极低	&
+SM-G9750	|	高	&
+SM-G6100	|	低	&
+SM-N910C	|	低	&
+vivo 1726	|	低	&
+RMX1811	|	低	&
+SM-J710F	|	低	&
+SM-J610F	|	极低	&
+SM-J400F	|	低	&
+SM-N9500	|	高	&
+SM-G973F	|	高	&
+SM-G977N	|	高	&
+SM-G975F	|	高	&
+vivo 1818	|	高	&
+SM-A750GN	|	中	&
+CPH1911	|	中	&
+SM-J410F	|	极低	&
+SM-A500F	|	极低	&
+MI MAX	|	中	&
+MI 8 SE	|	高	&
+G8142	|	高	&
+SM-G925T	|	中	&
+SM-G970F	|	高	&
+vivo 1606	|	极低	&
+vivo 1902	|	中	&
+F1f	|	低	&
+XT1609	|	极低	&
+CPH1801	|	低	&
+vivo 1811	|	低	&
+vivo 1806	|	中	&
+CPH1609	|	低	&
+SM-J110H	|	极低	&
+Redmi K30 Pro Zoom Edition	|	高	&
+SEA-AL00	|	高	&
+PCKM00	|	高	&
+V1923A	|	高	&
+Mi9 Pro 5G	|	高	&
+SM-G9860	|	高	&
+SM-F700F	|	高	&
+LM-X210	|	极低	&
+SM-S367VL	|	中	&
+moto e5 plus	|	极低	&
+Mi A2	|	中	&
+OXF-AN00	|	高	&
+TAH-AN00m	|	高	&
+SM-G9810	|	高	&
+SM-G9880	|	高	&
+SM-S327VL	|	极低	&
+LM-X220	|	极低	&
+POCOPHONE F1	|	高	&
+SM-G960W	|	高	&
+SM-G950W	|	高	&
+vivo 1718	|	低	&
+vivo 1716	|	低	&
+vivo 1819	|	中	&
+vivo 1804	|	中	&
+Redmi Note 5 Pro	|	中	&
+LG-M250	|	低	&
+Redmi 4X	|	低	&
+Redmi Note 5A	|	极低	&
+vivo X20	|	中	&
+PDPT00	|	高	&
+PDAM10	|	中	&
+PDKT00	|	高	&
+JEF-AN00	|	高	&
+CDY-AN00	|	高	&
+JER-AN10	|	高	&
+V2002A	|	高	&
+V1934A	|	中	&
+V1901A	|	中	&
+V1965A	|	中	&
+V2012A	|	高	&
+meizu 17 Pro	|	高	&
+GM1910	|	高	&
+MXW-AN00	|	高	&
+TEL-AN00	|	高	&
+TNNH-AN00	|	高	&
+KKG-AN00	|	高	&
+V2011A	|	高	&
+vivo NEX A	|	高	&
+M2004J7AC	|	高	&
+ASK-AL00x	|	中	&
+M2002J9E	|	高	&
+V1816A	|	中	&
+OXP-AN00	|	高	&
+M2004J7BC	|	高	&
+M2004J19C	|	中	&
+LIO-AL00	|	高	&
+PBFT00	|	低	&
+DVC-AN00	|	高	&
+EVR-AL00	|	高	&
+DVC-TN20	|	高	&
+M2003J15SC	|	中	&
+NOH-AN00	|	高	&
+NOH-AN00	|	高	&
+NOP-AN00	|	高	&
+NOP-AN00	|	高	&
+SM-A600FN	|	低	&
+SM-J415F	|	极低	&
+vivo 1723	|	低	&
+RMX1811	|	低	&
+MI 8 Lite	|	中	&
+Redmi 6	|	低	&
+Redmi K30 5G Speed	|	高	&
+vivo 1814	|	低	&
+HTC Desire 10 pro	|	低	&
+vivo 1609	|	低	&
+vivo 1601	|	低	&
+CPH1715	|	低	&
+CPH1831	|	中	&
+SM-A910F	|	中	&
+CPH1707	|	中	&
+PDHM00	|	高	&
+RMX2040	|	高	&
+SM-A315G	|	高	&
+V2005A	|	高	&
+V1981A	|	高	&
+meizu 17	|	高	&
+PEAM00	|	中	&
+ASUS_Z01RD	|	高	&
+PDNM00	|	高	&
+V2001A	|	高	&
+V1986A	|	高	&
+RMX2020	|	中	&
+SH-02M	|	中	&
+Redmi Note 9 Pro	|	高	&
+PCRT01	|	高	&
+V2020CA	|	高	&
+BTV	|	中	&
+F-03K	|	低	&
+WKG-AN00	|	中	&
+SM-A515F	|	中	&
+CPH1721	|	高	&
+CPH1951	|	高	&
+vivo 1713	|	高	&
+CPH1907	|	高	&
+W-K130-TMV	|	极低	&
+YAL-L21	|	高	&
+ASUS_I01WD	|	高	&
+V2002A	|	高	&
+RMX2121	|	高	&
+SM-A715F	|	高	&
+CPH2043	|	高	&
+SO-02L	|	中	&
+SH-04L	|	高	&
+S5-SH	|	低	&
+vivo 1910	|	高	&
+RMX2001	|	高	&
+SM-G985F	|	高	&
+CPH1979	|	高	&
+CPH1919	|	高	&
+CPH1835	|	中	&
+CPH1611	|	中	&
+HTC U11 plus	|	高	&
+RMX1921	|	高	&
+CPH2083	|	中	&
+vivo 1915	|	高	&
+vivo 1920	|	高	&
+vivo 1802	|	高	&
+Redmi 6A	|	低	&
+PDYM20	|	中	&
+FRL-AN00a	|	中	&
+vivo 1919	|	高	&
+ATU-L22	|	极低	&
+VZH	|	极低	&
+RMX2030	|	高	&
+vivo 1901	|	低	&
+F-01K	|	高	&
+S1	|	低	&
+CPH1613	|	中	&
+SM-C7000	|	低	&
+Joy 3	|	中	&
+Active 3	|	高	&
+SM-A115F	|	低	&
+Star	|	极低	&
+Joy 2+	|	低	&
+HTC Desire 12	|	低	&
+RMX2061	|	高	&
+vivo 1933	|	高	&
+Live	|	高	&
+HTC U12+	|	高	&
+CPH1605	|	低	&
+CPH2059	|	中	&
+vivo 1906	|	低	&
+CPH2073	|	中	&
+HTC Desire 12s	|	低	&
