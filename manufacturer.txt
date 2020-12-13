@@ -1,0 +1,197 @@
+OPPO  | oppo &
+LGE   | lge &
+APPLE | 苹果apple &
+Google | 谷歌google &
+HUAWEI | 华为huawei &
+Xiaomi | 小米xiaomi &
+vivo   | vivo &
+OnePlus | 一加oneplus &
+deltainno | deltainno &
+samsung   | samsung三星 &
+SHARP     | sharp  &
+asus   | asus &
+smartisan  | smartisan &
+HTC       | htc &
+meizu    | 魅族meizu &
+nubia    | 努比亚nubia &
+blackshark | 黑鲨blackshark &
+ByteDance | bytedance &
+unknown  | unkinwn &
+alps   | alps &
+china  | china &
+realme | 真我realme &
+LeMobile | 乐视lemobile &
+motorola | 摩托罗拉motorola &
+GIONEE  | 金立gionee &
+Lenovo | 联想lenovo &
+Meitu | 美图meitu &
+Letv | letv &
+Coolpad | 酷派coolpad &
+Sony | 索尼sony &
+Hisense | 海信hisense &
+YuLong  | 玉龙yulong &
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
