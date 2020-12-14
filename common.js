@@ -1,16 +1,27 @@
-const devices = require('./devices_new.json')
+const devices = require('./devices_common.json')
 const fs = require('fs')
-const common = ['OPPO', 'LGE', 'APPLE', 'Google', 'HUAWEI', 'Xiaomi', 'vivo', 'OnePlus', 'deltainno', 'samsung', 'SHARP', 'asus', 'smartisan'
-, 'HTC', 'meizu', 'nubia', 'blackshark', 'unknown', 'alps', 'china', 'realme', 'LeMobile', 'motorola', 'GIONEE', 'Lenovo', 'Meitu', 'Letv',
-'Coolpad', 'Sony', 'Hisense', 'YuLong'
-]
+
 
 devices.forEach(device => {
-  if(common.indexOf(device.manufacturer) !== -1){
+   switch(device.device_level) {
+     case 1:
+       device.device_level = '极低'
+       break
+     case 2:
+       device.device_level = '低'
+       break
+     case 3:
+       device.device_level = '中'
+       break
+     case 4:
+       device.device_level = '高'
+       break
+     default:
+       device.device_level = '低'
+       break
+   }
     let data = JSON.stringify(device, null , 2)
-    fs.appendFileSync('./devices_common.json', data)
-    fs.appendFileSync('./devices_common.json', ",\n")
-  }else{
-    return
-  }
+    fs.appendFileSync('./devices_bak.json', data)
+    fs.appendFileSync('./devices_bak.json', ",\n")
+
 });
